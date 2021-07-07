@@ -83,7 +83,7 @@ width: 100%;
 }
 
 .page-wrapper{
-min-height: 100%;
+min-height: 80%;
 margin-bottom: -50px;
 }
 
@@ -217,12 +217,12 @@ text-align: center;
   }
   
   .socials {
-    padding: 20px;
+    padding: 10px;
     font-size: 30px;
     text-align: center;
     text-decoration: none;
     list-style: none;
-    display: flex;
+    /* display: flex; */
     align-items: center;
     justify-content: center;
   }
